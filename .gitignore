@@ -1,0 +1,5 @@
+files/input/*
+files/output/*
+
+files/.DS_Store
+.DS_Store
